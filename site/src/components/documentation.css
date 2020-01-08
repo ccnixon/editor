@@ -1,0 +1,11 @@
+.panel {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  float: left;
+  height: 100%;
+  width: calc(33.3333% - 15px);
+}
+
+.panel-content {
+  padding: 20px;
+}

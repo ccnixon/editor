@@ -1,0 +1,14 @@
+.container {
+  padding: 10px
+}
+
+.workflow-header {
+  padding: 10px;
+  display: flex;
+}
+
+.workflow-container {
+  display: flex;
+  height: 97vh;
+  justify-content: space-around;
+}

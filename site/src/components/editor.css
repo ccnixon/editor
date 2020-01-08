@@ -1,0 +1,7 @@
+.editor {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  float: left;
+  height: 100%;
+  width: calc(66.6666% - 15px);
+}
